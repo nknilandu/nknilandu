@@ -19,7 +19,7 @@ Open to **collaboration** and **real-world development challenges**.
 Building modern web applications with the MERN stack
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,express,firebase,mongodb,nodejs,vite,c,py,java,js,html,css,git" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,express,firebase,mongodb,nodejs,vite,c,py,java,js,html,css,git,vscode,netlify,vercel" />
   </a>
 </p>
 
