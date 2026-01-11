@@ -1,20 +1,21 @@
 ![image alt](https://github.com/nknilandu/nknilandu/blob/main/github-profile-banner.png?raw=true)
 
+## 🔥 About Me:
+I’m **Nilandu Kumar Das Vapon**    
 
-# Hi there, I’m Nilandu Kumar Das Vapon 👋
-**MERN Stack Developer** | Final-year CSE Undergraduate at Green University of Bangladesh
+💻 **MERN Stack Developer**  
+🎓 Final-year CSE Undergraduate at **Green University of Bangladesh**.
 
-I build **responsive** and **user-focused web applications** using modern web technologies.  
-Skilled in **React, JavaScript, Tailwind CSS, Node.js, Express.js, MongoDB, and Firebase**.  
+🚀 I build **responsive** and **user-focused web applications** using modern web technologies.  
+🛠️ Skilled in **React, JavaScript, Tailwind CSS, Node.js, Express.js, MongoDB, and Firebase**.  
 
-Currently seeking **internship** and **junior developer** opportunities.  
-I enjoy **learning through hands-on projects** and continuously improving my skills.  
-Open to **collaboration** and **real-world development challenges**.
+🔍 ctively looking for **internship** and **junior developer** developer roles.  
+📚 Love **learning through hands-on projects** and improving my skills.  
+🤝 Open to **collaboration** and **real-world development challenges**.
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nknilandu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nknilandu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nilandu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nknilandu) 
-
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nknilandu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nknilandu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nilandu) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/nknilandu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nknilandu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nknilandu@gmail.com) 
 # 🛠️ Skills & Tools:
 Building modern web applications with the MERN stack
 <p align="start">
@@ -25,14 +26,9 @@ Building modern web applications with the MERN stack
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nknilandu&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nknilandu&theme=cobalt&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nknilandu&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=nknilandu&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://github-readme-stats.vercel.app/api?username=nknilandu&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nknilandu&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nknilandu&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -47,3 +43,9 @@ Building modern web applications with the MERN stack
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+## 🚀 Activity & Growth
+I stay consistent on GitHub by building projects, experimenting with new technologies, and improving my problem-solving skills.  
+Most of my work focuses on **full-stack web development**, clean UI, and scalable backend logic.
+
+---
