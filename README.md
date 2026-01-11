@@ -26,26 +26,33 @@ Building modern web applications with the MERN stack
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nknilandu&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nknilandu&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nknilandu&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=nknilandu&theme=transparent&hide_border=true" />
+</p>
 
-## 🚀 Activity & Growth
+---
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution grid snake animation"
+      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</div>
+
+
+# 🚀 Activity & Growth
 I stay consistent on GitHub by building projects, experimenting with new technologies, and improving my problem-solving skills.  
 Most of my work focuses on **full-stack web development**, clean UI, and scalable backend logic.
 
----
+⭐ *If you like my work, consider giving a star or connecting with me!*
+
